@@ -4,6 +4,8 @@ Configuration on my computers on Windows by default.
 
 ## Prepare for Windows installation
 
+[Link to download Windows 10 ISO](https://tb.rg-adguard.net/public.php)
+
 Copy the ei.cfg file to the Sources folder on the USB stick.
 
 ei.cfg
