@@ -46,6 +46,7 @@ choco install putty -y
 choco install qbittorrent -y
 choco install rufus -y
 choco install sourcetree -y
+choco install spacedesk-server -y
 choco install spotify -y
 choco install synologydrive -y
 choco install teamviewer -y
