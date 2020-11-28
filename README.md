@@ -55,6 +55,7 @@ choco install virustotaluploader -y
 choco install vlc -y
 choco install vscode -y
 choco install vscode-settingssync -y
+choco install wireguard -y
 choco install whatsapp -y
 choco install windirstat -y
 
