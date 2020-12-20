@@ -38,6 +38,7 @@ choco install jre8 -y
 choco install microsoft-edge -y
 choco install microsoft-windows-terminal -y
 choco install mobaxterm -y
+choco install nextcloud-client -y
 choco install nmap -y
 choco install nodejs-lts -y
 choco install notepadplusplus -y
@@ -48,7 +49,6 @@ choco install rufus -y
 choco install sourcetree -y
 choco install spacedesk-server -y
 choco install spotify -y
-choco install synologydrive -y
 choco install teamviewer -y
 choco install thunderbird -y
 choco install virustotaluploader -y
