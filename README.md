@@ -35,14 +35,11 @@ choco install firefox -y
 choco install git -y
 choco install googlechrome -y
 choco install jre8 -y
-choco install microsoft-edge -y
-choco install microsoft-windows-terminal -y
 choco install mobaxterm -y
 choco install nextcloud-client -y
 choco install nmap -y
 choco install nodejs-lts -y
 choco install notepadplusplus -y
-choco install openvpn -y
 choco install putty -y
 choco install qbittorrent -y
 choco install rufus -y
@@ -50,11 +47,9 @@ choco install sourcetree -y
 choco install spacedesk-server -y
 choco install spotify -y
 choco install teamviewer -y
-choco install thunderbird -y
 choco install virustotaluploader -y
 choco install vlc -y
 choco install vscode -y
-choco install vscode-settingssync -y
 choco install wireguard -y
 choco install whatsapp -y
 choco install windirstat -y
