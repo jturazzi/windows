@@ -23,7 +23,6 @@ Packages List
 ```
 choco install 7zip -y
 choco install authy-desktop -y
-choco install bitwarden -y
 choco install ccleaner -y
 choco install chocolateygui -y
 choco install crystaldiskinfo -y
@@ -36,15 +35,12 @@ choco install git -y
 choco install googlechrome -y
 choco install jre8 -y
 choco install mobaxterm -y
-choco install nextcloud-client -y
 choco install nmap -y
 choco install nodejs-lts -y
 choco install notepadplusplus -y
 choco install putty -y
 choco install qbittorrent -y
 choco install rufus -y
-choco install sourcetree -y
-choco install spacedesk-server -y
 choco install spotify -y
 choco install teamviewer -y
 choco install virustotaluploader -y
