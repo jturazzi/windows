@@ -22,6 +22,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 Packages List
 ```
 choco install 7zip -y
+choco install adobereader -y
 choco install authy-desktop -y
 choco install ccleaner -y
 choco install chocolateygui -y
