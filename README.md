@@ -39,6 +39,7 @@ choco install mobaxterm -y
 choco install nmap -y
 choco install nodejs-lts -y
 choco install notepadplusplus -y
+choco install openvpn -y
 choco install putty -y
 choco install qbittorrent -y
 choco install rufus -y
