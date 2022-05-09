@@ -14,13 +14,16 @@ winget install --id=Insecure.Nmap  -e
 winget install --id=Notepad++.Notepad++  -e
 winget install --id=Giorgiotani.Peazip -e
 winget install --id=Microsoft.PowerShell  -e
+winget install --id=Microsoft.PowerToys  -e
 winget install --id=PuTTY.PuTTY  -e
 winget install --id=qBittorrent.qBittorrent -e
 winget install --id=QL-Win.QuickLook  -e
 winget install --id=Rufus.Rufus  -e
+winget install --id=ShareX.ShareX  -e
 winget install --id=Spotify.Spotify -e
 winget install --id=StartIsBack.StartAllBack  -e
 winget install --id Microsoft.VisualStudioCode -e
+winget install --id=VideoLAN.VLC  -e
 winget install --id=VMware.WorkstationPro  -e
 winget install --id=WinDirStat.WinDirStat  -e
 winget install --id=WireGuard.WireGuard  -e
