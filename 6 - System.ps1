@@ -122,3 +122,12 @@ if ((Get-AppxPackage -Name Microsoft.XboxGamingOverlay) -or (Get-AppxPackage -Na
 {
 	New-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\GameBar -Name ShowStartupPanel -PropertyType DWord -Value 0 -Force
 }
+
+
+# Enable the remote desktop connection
+Write-Output "Enable Remote Desktop Connection ..."
+Set-ItemProperty -Path "HKLM:\System\CurrentControlSet\Control\Terminal Server" -Name "fDenyTSConnections" -Value 0
+# French
+Enable-NetFirewallRule -DisplayGroup "Bureau à distance"
+# English
+# Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
